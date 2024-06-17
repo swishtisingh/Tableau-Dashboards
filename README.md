@@ -28,11 +28,11 @@ This repository houses the source data used to create Tableau dashboards that pr
 
 The data used in this project is stored in the `data` directory. This directory includes:
 
-- `netflix_titles.csv`: Description of what this data file contains.
-- `HouseData.xlsx`: Description of what this data file contains.
-- `AB_NYC_2019.csv`:
-- `Amazon Sales data.csv`:
-- `FDI data.csv`:
+- `netflix_titles.csv`: The CSV data file contains information about various shows, with columns including the unique show ID, type (e.g., movie or TV show), title, director, cast, country of origin, date added to the platform, release year, rating, duration, the category it is listed in, and a brief description of the show. This dataset is useful for analyzing trends in show releases, exploring content by various attributes, and performing comprehensive content analysis.
+- `HouseData.xlsx`: The XLSX data file contains real estate information, with columns including a unique ID, date of sale, price, number of bedrooms and bathrooms, living area in square feet, lot size, number of floors, presence of a waterfront, view, condition, grade, year built, zip code, and geographical coordinates (latitude and longitude). This dataset is ideal for analyzing housing market trends, property valuations, and geographic distribution of real estate features.
+- `AB_NYC_2019.csv`: The Airbnb CSV data file contains detailed listings information, including columns for the unique ID, listing name, host ID, host name, neighborhood group, neighborhood, geographical coordinates (latitude and longitude), room type, price, minimum nights required, number of reviews, date of last review, reviews per month, total listings by the host, and availability. This dataset is useful for analyzing Airbnb market trends, host activity, geographic distribution of listings, and rental pricing strategies.
+- `Amazon Sales data.csv`: The Amazon sales data CSV file contains transactional details with columns for region, country, item type, sales channel, order priority, order date, order ID, ship date, units sold, unit price, unit cost, total revenue, total cost, and total profit. This dataset is ideal for analyzing sales performance, market trends, and profitability across different regions and product categories.
+- `FDI data.csv`: The Foreign Direct Investment (FDI) data CSV file captures sector-wise investment details over the years 2000 to 2017, with columns indicating the sector and the corresponding annual investment amounts. This dataset is valuable for analyzing trends in FDI, identifying growth sectors, and understanding investment patterns over time.
 
 Each data file contains raw data that has been cleaned and prepared for visualization in Tableau.
 
