@@ -42,11 +42,12 @@ You can view the Tableau dashboards by following this [link](https://public.tabl
 
 The dashboards included are:
 
-- **Book01_Netflix**: A brief description of what this dashboard shows.
-- **Book02_House_Sales**: A brief description of what this dashboard shows.
-- **Book03_airbnb**: A brief description of what this dashboard shows.
-- **Book04_Analyzing_Amazon_Sales_Data**:
-- **Book05_Foreign_Direct_Investment**:
+- **Book01_Netflix**: It provides comprehensive view of content distribution, genre trends and viewer ratings. It can be used to enhance content acquisition, optimized content selection, production strategies and audience engagement strategies.
+
+- **Book02_House_Sales**: It provides actionable insights into market trends, property attributes, and comparative pricing. It can be used to support strategic planning, optimise investment opportunities and make informed decisions.
+- **Book03_airbnb**: It shows crucial insights on booking trends, pricing dynamics, and host performance metrics. It can be used to optimize marketing strategies, enhance revenue generation, and drive operational efficiency.
+- **Book04_Analyzing_Amazon_Sales_Data**: The dashboard provides visual insights into sales channel performance, item-wise profitability, and annual profit trends through various graphs. It enables informed decision-making by highlighting key revenue drivers, identifying profitable items, and tracking yearly financial growth for strategic planning.
+- **Book05_Foreign_Direct_Investment**:The dashboard visualizes year-wise and sector-wise investment trends, along with total FDI distribution by sector and yearly investment figures. It supports informed decision-making by identifying investment patterns, high-growth sectors, and optimizing resource allocation for future investments.
 
 ## Usage
 
