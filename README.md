@@ -1,6 +1,15 @@
 # Tableau Dashboard Source Data
 
-Welcome to the repository containing the source data and the link to the Tableau dashboards.
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <div>
+        <img src="https://png.pngtree.com/background/20230617/original/pngtree-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-picture-image_3681584.jpg" alt="Banner Image" class="banner">
+    </div>
+</body>
+
+Welcome to the repository containing the source data and the link to my Tableau dashboards.
 
 ## Table of Contents
 
