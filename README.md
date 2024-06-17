@@ -28,21 +28,25 @@ This repository houses the source data used to create Tableau dashboards that pr
 
 The data used in this project is stored in the `data` directory. This directory includes:
 
-- `datafile1.csv`: Description of what this data file contains.
-- `datafile2.xlsx`: Description of what this data file contains.
-- Any other relevant data files.
+- `netflix_titles.csv`: Description of what this data file contains.
+- `HouseData.xlsx`: Description of what this data file contains.
+- `AB_NYC_2019.csv`:
+- `Amazon Sales data.csv`:
+- `FDI data.csv`:
 
 Each data file contains raw data that has been cleaned and prepared for visualization in Tableau.
 
 ## Tableau Dashboards
 
-You can view the Tableau dashboards by following this [link](https://your-tableau-dashboard-link.com).
+You can view the Tableau dashboards by following this [link](https://public.tableau.com/app/profile/srishti.singh7090/vizzes).
 
 The dashboards included are:
 
-- **Dashboard 1**: A brief description of what this dashboard shows.
-- **Dashboard 2**: A brief description of what this dashboard shows.
-- **Dashboard 3**: A brief description of what this dashboard shows.
+- **Book01_Netflix**: A brief description of what this dashboard shows.
+- **Book02_House_Sales**: A brief description of what this dashboard shows.
+- **Book03_airbnb**: A brief description of what this dashboard shows.
+- **Book04_Analyzing_Amazon_Sales_Data**:
+- **Book05_Foreign_Direct_Investment**:
 
 ## Usage
 
@@ -50,11 +54,11 @@ To use the data in this repository:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/swishtisingh/Tableau-Dashboards.git
     ```
 2. Navigate to the directory containing the data:
     ```bash
-    cd your-repo-name/data
+    cd Tableau-Dashboards/data
     ```
 3. Open the data files with your preferred software (e.g., Excel, Tableau).
 
@@ -71,10 +75,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact:
 
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Name: Srishti Singh
+- Email: srishtis1609@gmail.com
+- GitHub: [swishtisingh](https://github.com/swishtisingh)
 
-We hope you find the dashboards and data useful. Contributions and suggestions are welcome!
+I hope you find the dashboards and data useful. Contributions and suggestions are welcome!
 
 
